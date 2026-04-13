@@ -2,7 +2,7 @@ name: Auto IPTV Update
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # every 30 minutes
+    - cron: "*/10 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,17 +10,35 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: Fetch latest M3U
+      - name: Fetch M3U
         run: |
           curl -L "https://latest.rkdyiptv.workers.dev/tg/rkdyiptv.m3u" -o playlist.m3u
+
+      # 🇮🇳 INDIA FILTER
+      - name: Filter India Channels
+        run: |
+          awk '
+          BEGIN { keep=0 }
+          /#EXTINF/ {
+            if ($0 ~ /INDIA|STAR|SONY|ZEE|COLORS|SPORTS|HINDI|TATA|SUN|DD/) {
+              keep=1
+              print
+              getline
+              print
+            } else {
+              keep=0
+            }
+          }' playlist.m3u > india.m3u
+
+      - name: Replace file
+        run: mv india.m3u playlist.m3u
 
       - name: Commit & Push
         run: |
           git config --global user.name "iptv-bot"
           git config --global user.email "bot@iptv.com"
           git add playlist.m3u
-          git commit -m "Auto update IPTV" || echo "No changes"
+          git commit -m "India IPTV update" || echo "No changes"
           git push
