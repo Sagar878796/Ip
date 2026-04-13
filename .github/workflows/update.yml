@@ -1,0 +1,26 @@
+name: Auto IPTV Update
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # every 30 minutes
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Fetch latest M3U
+        run: |
+          curl -L "https://latest.rkdyiptv.workers.dev/tg/rkdyiptv.m3u" -o playlist.m3u
+
+      - name: Commit & Push
+        run: |
+          git config --global user.name "iptv-bot"
+          git config --global user.email "bot@iptv.com"
+          git add playlist.m3u
+          git commit -m "Auto update IPTV" || echo "No changes"
+          git push
