@@ -520,12 +520,6 @@ https://latest.rkdyiptv.workers.dev/live/1756.m3u8?token=rkdyiptv&exp=1782844200
 https://latest.rkdyiptv.workers.dev/live/1231.m3u8?token=rkdyiptv&exp=1782844200&origin=https%3A%2F%2Flatest.rkdyiptv.workers.dev&referer=https%3A%2F%2Flatest.rkdyiptv.workers.dev%2F&cookie=5dd4e60d9f0699ec9970a726365c6191
 #EXTINF:-1 tvg-id="No details available" tvg-name="JUS HINDI HD" tvg-logo="" group-title="HINDI",JUS HINDI HD
 https://latest.rkdyiptv.workers.dev/live/4189.m3u8?token=rkdyiptv&exp=1782844200&origin=https%3A%2F%2Flatest.rkdyiptv.workers.dev&referer=https%3A%2F%2Flatest.rkdyiptv.workers.dev%2F&cookie=5dd4e60d9f0699ec9970a726365c6191
-#EXTINF:-1 tvg-id="zeecafehd.in" tvg-name="ZEE CAFE HD" tvg-logo="" group-title="HINDI",ZEE CAFE HD
-https://latest.rkdyiptv.workers.dev/live/165.m3u8?token=rkdyiptv&exp=1782844200&origin=https%3A%2F%2Flatest.rkdyiptv.workers.dev&referer=https%3A%2F%2Flatest.rkdyiptv.workers.dev%2F&cookie=5dd4e60d9f0699ec9970a726365c6191
-#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="AND FLIX HD" tvg-logo="" group-title="HINDI PREMIUM MOVIES",AND FLIX HD
-https://latest.rkdyiptv.workers.dev/live/160.m3u8?token=rkdyiptv&exp=1782844200&origin=https%3A%2F%2Flatest.rkdyiptv.workers.dev&referer=https%3A%2F%2Flatest.rkdyiptv.workers.dev%2F&cookie=5dd4e60d9f0699ec9970a726365c6191
-#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="AND PRIVE HD" tvg-logo="" group-title="HINDI PREMIUM MOVIES",AND PRIVE HD
-https://latest.rkdyiptv.workers.dev/live/973.m3u8?token=rkdyiptv&exp=1782844200&origin=https%3A%2F%2Flatest.rkdyiptv.workers.dev&referer=https%3A%2F%2Flatest.rkdyiptv.workers.dev%2F&cookie=5dd4e60d9f0699ec9970a726365c6191
 #EXTINF:-1 tvg-id="starutsav.in" tvg-name="STAR UTSAV" tvg-logo="" group-title="HINDI",STAR UTSAV
 https://latest.rkdyiptv.workers.dev/live/2800.m3u8?token=rkdyiptv&exp=1782844200&origin=https%3A%2F%2Flatest.rkdyiptv.workers.dev&referer=https%3A%2F%2Flatest.rkdyiptv.workers.dev%2F&cookie=5dd4e60d9f0699ec9970a726365c6191
 #EXTINF:-1 tvg-id="starutsavmovies.in" tvg-name="STAR UTSAV MOVIES" tvg-logo="" group-title="HINDI PREMIUM MOVIES",STAR UTSAV MOVIES
@@ -866,6 +860,10 @@ https://latest.rkdyiptv.workers.dev/live/2044.m3u8?token=rkdyiptv&exp=1782844200
 https://latest.rkdyiptv.workers.dev/live/2173.m3u8?token=rkdyiptv&exp=1782844200&origin=https%3A%2F%2Flatest.rkdyiptv.workers.dev&referer=https%3A%2F%2Flatest.rkdyiptv.workers.dev%2F&cookie=5dd4e60d9f0699ec9970a726365c6191
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS HD" tvg-logo="" group-title="POLISH",ELEVEN SPORTS HD
 https://latest.rkdyiptv.workers.dev/live/2216.m3u8?token=rkdyiptv&exp=1782844200&origin=https%3A%2F%2Flatest.rkdyiptv.workers.dev&referer=https%3A%2F%2Flatest.rkdyiptv.workers.dev%2F&cookie=5dd4e60d9f0699ec9970a726365c6191
+#EXTINF:-1 tvg-id="No details available" tvg-name="SAI LEELA TV HD" tvg-logo="" group-title="HINDI RELIGIOUS",SAI LEELA TV HD
+https://latest.rkdyiptv.workers.dev/live/8602.m3u8?token=rkdyiptv&exp=1782844200&origin=https%3A%2F%2Flatest.rkdyiptv.workers.dev&referer=https%3A%2F%2Flatest.rkdyiptv.workers.dev%2F&cookie=5dd4e60d9f0699ec9970a726365c6191
+#EXTINF:-1 tvg-id="No details available" tvg-name="SAI BHAJAN" tvg-logo="" group-title="HINDI RELIGIOUS",SAI BHAJAN
+https://latest.rkdyiptv.workers.dev/live/8604.m3u8?token=rkdyiptv&exp=1782844200&origin=https%3A%2F%2Flatest.rkdyiptv.workers.dev&referer=https%3A%2F%2Flatest.rkdyiptv.workers.dev%2F&cookie=5dd4e60d9f0699ec9970a726365c6191
 #EXTINF:-1 tvg-id="No details available" tvg-name="SHIV ARADHANA 1 HD" tvg-logo="" group-title="HINDI RELIGIOUS",SHIV ARADHANA 1 HD
 https://latest.rkdyiptv.workers.dev/live/8401.m3u8?token=rkdyiptv&exp=1782844200&origin=https%3A%2F%2Flatest.rkdyiptv.workers.dev&referer=https%3A%2F%2Flatest.rkdyiptv.workers.dev%2F&cookie=5dd4e60d9f0699ec9970a726365c6191
 #EXTINF:-1 tvg-id="No details available" tvg-name="SHIV ARADHANA 2 HD" tvg-logo="" group-title="HINDI RELIGIOUS",SHIV ARADHANA 2 HD
