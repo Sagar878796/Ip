@@ -1692,6 +1692,18 @@ https://latest.rkdyiptv.workers.dev/live/6090.m3u8?token=rkdyiptv&exp=1783189800
 https://latest.rkdyiptv.workers.dev/live/6091.m3u8?token=rkdyiptv&exp=1783189800&origin=https%3A%2F%2Flatest.rkdyiptv.workers.dev&referer=https%3A%2F%2Flatest.rkdyiptv.workers.dev%2F&cookie=354f27c776593912b0d731ddb358e445
 #EXTINF:-1 tvg-id="nowsports7.hk" tvg-name="HK NOW SPORTS 7 4K" tvg-logo="" group-title="SPORTS | NOW HUB",HK NOW SPORTS 7 4K
 https://latest.rkdyiptv.workers.dev/live/6093.m3u8?token=rkdyiptv&exp=1783189800&origin=https%3A%2F%2Flatest.rkdyiptv.workers.dev&referer=https%3A%2F%2Flatest.rkdyiptv.workers.dev%2F&cookie=354f27c776593912b0d731ddb358e445
+#EXTINF:-1 tvg-id="No details available" tvg-name="BEIN SPORTS MAX 1 4K" tvg-logo="" group-title="SPORTS | BEIN",BEIN SPORTS MAX 1 4K
+https://latest.rkdyiptv.workers.dev/live/8710.m3u8?token=rkdyiptv&exp=1783189800&origin=https%3A%2F%2Flatest.rkdyiptv.workers.dev&referer=https%3A%2F%2Flatest.rkdyiptv.workers.dev%2F&cookie=354f27c776593912b0d731ddb358e445
+#EXTINF:-1 tvg-id="No details available" tvg-name="BEIN SPORTS MAX 2 4K" tvg-logo="" group-title="SPORTS | BEIN",BEIN SPORTS MAX 2 4K
+https://latest.rkdyiptv.workers.dev/live/8711.m3u8?token=rkdyiptv&exp=1783189800&origin=https%3A%2F%2Flatest.rkdyiptv.workers.dev&referer=https%3A%2F%2Flatest.rkdyiptv.workers.dev%2F&cookie=354f27c776593912b0d731ddb358e445
+#EXTINF:-1 tvg-id="No details available" tvg-name="BEIN SPORTS MAX 3 4K" tvg-logo="" group-title="SPORTS | BEIN",BEIN SPORTS MAX 3 4K
+https://latest.rkdyiptv.workers.dev/live/8712.m3u8?token=rkdyiptv&exp=1783189800&origin=https%3A%2F%2Flatest.rkdyiptv.workers.dev&referer=https%3A%2F%2Flatest.rkdyiptv.workers.dev%2F&cookie=354f27c776593912b0d731ddb358e445
+#EXTINF:-1 tvg-id="No details available" tvg-name="BEIN SPORTS MAX 4 4K" tvg-logo="" group-title="SPORTS | BEIN",BEIN SPORTS MAX 4 4K
+https://latest.rkdyiptv.workers.dev/live/8713.m3u8?token=rkdyiptv&exp=1783189800&origin=https%3A%2F%2Flatest.rkdyiptv.workers.dev&referer=https%3A%2F%2Flatest.rkdyiptv.workers.dev%2F&cookie=354f27c776593912b0d731ddb358e445
+#EXTINF:-1 tvg-id="No details available" tvg-name="BEIN SPORTS MAX 5 4K" tvg-logo="" group-title="SPORTS | BEIN",BEIN SPORTS MAX 5 4K
+https://latest.rkdyiptv.workers.dev/live/8714.m3u8?token=rkdyiptv&exp=1783189800&origin=https%3A%2F%2Flatest.rkdyiptv.workers.dev&referer=https%3A%2F%2Flatest.rkdyiptv.workers.dev%2F&cookie=354f27c776593912b0d731ddb358e445
+#EXTINF:-1 tvg-id="No details available" tvg-name="BEIN SPORTS MAX 6 4K" tvg-logo="" group-title="SPORTS | BEIN",BEIN SPORTS MAX 6 4K
+https://latest.rkdyiptv.workers.dev/live/8715.m3u8?token=rkdyiptv&exp=1783189800&origin=https%3A%2F%2Flatest.rkdyiptv.workers.dev&referer=https%3A%2F%2Flatest.rkdyiptv.workers.dev%2F&cookie=354f27c776593912b0d731ddb358e445
 #EXTINF:-1 tvg-id="1.espn" tvg-name="ESPN PLUS 1 HD" tvg-logo="" group-title="SPORTS | ESPN+",ESPN PLUS 1 HD
 https://latest.rkdyiptv.workers.dev/live/5755.m3u8?token=rkdyiptv&exp=1783189800&origin=https%3A%2F%2Flatest.rkdyiptv.workers.dev&referer=https%3A%2F%2Flatest.rkdyiptv.workers.dev%2F&cookie=354f27c776593912b0d731ddb358e445
 #EXTINF:-1 tvg-id="2.espn" tvg-name="ESPN PLUS 2 HD" tvg-logo="" group-title="SPORTS | ESPN+",ESPN PLUS 2 HD
