@@ -2374,16 +2374,14 @@ https://latest.rkdyiptv.workers.dev/live/6742.m3u8?token=rkdyiptv&exp=1783535400
 https://latest.rkdyiptv.workers.dev/live/6743.m3u8?token=rkdyiptv&exp=1783535400&origin=https%3A%2F%2Flatest.rkdyiptv.workers.dev&referer=https%3A%2F%2Flatest.rkdyiptv.workers.dev%2F&cookie=0b0b7ff57bd7f6f4e6367a7f22db66f1
 #EXTINF:-1 tvg-id="No details available" tvg-name="DAY STAR" tvg-logo="" group-title="ENGLISH RELIGIOUS",DAY STAR
 https://latest.rkdyiptv.workers.dev/live/1454.m3u8?token=rkdyiptv&exp=1783535400&origin=https%3A%2F%2Flatest.rkdyiptv.workers.dev&referer=https%3A%2F%2Flatest.rkdyiptv.workers.dev%2F&cookie=0b0b7ff57bd7f6f4e6367a7f22db66f1
-#EXTINF:-1 tvg-id="abcwrtv.us" tvg-name="ABC 6 WRTV INDIANPOLIS 4K" tvg-logo="" group-title="ENGLISH USA LOCALS",ABC 6 WRTV INDIANPOLIS 4K
-https://latest.rkdyiptv.workers.dev/live/3363.m3u8?token=rkdyiptv&exp=1783535400&origin=https%3A%2F%2Flatest.rkdyiptv.workers.dev&referer=https%3A%2F%2Flatest.rkdyiptv.workers.dev%2F&cookie=0b0b7ff57bd7f6f4e6367a7f22db66f1
-#EXTINF:-1 tvg-id="cbs4wttv.us" tvg-name="CBS 4 WTTV INDIANPOLIS 4K" tvg-logo="" group-title="ENGLISH USA LOCALS",CBS 4 WTTV INDIANPOLIS 4K
-https://latest.rkdyiptv.workers.dev/live/6383.m3u8?token=rkdyiptv&exp=1783535400&origin=https%3A%2F%2Flatest.rkdyiptv.workers.dev&referer=https%3A%2F%2Flatest.rkdyiptv.workers.dev%2F&cookie=0b0b7ff57bd7f6f4e6367a7f22db66f1
-#EXTINF:-1 tvg-id="fox59wxin.us" tvg-name="FOX 59 WXIN INDIANPOLIS 4K" tvg-logo="" group-title="ENGLISH USA LOCALS",FOX 59 WXIN INDIANPOLIS 4K
-https://latest.rkdyiptv.workers.dev/live/6385.m3u8?token=rkdyiptv&exp=1783535400&origin=https%3A%2F%2Flatest.rkdyiptv.workers.dev&referer=https%3A%2F%2Flatest.rkdyiptv.workers.dev%2F&cookie=0b0b7ff57bd7f6f4e6367a7f22db66f1
-#EXTINF:-1 tvg-id="nbc13wthr.us" tvg-name="NBC 13 WTHR INDIANPOLIS 4K" tvg-logo="" group-title="ENGLISH USA LOCALS",NBC 13 WTHR INDIANPOLIS 4K
-https://latest.rkdyiptv.workers.dev/live/6384.m3u8?token=rkdyiptv&exp=1783535400&origin=https%3A%2F%2Flatest.rkdyiptv.workers.dev&referer=https%3A%2F%2Flatest.rkdyiptv.workers.dev%2F&cookie=0b0b7ff57bd7f6f4e6367a7f22db66f1
-#EXTINF:-1 tvg-id="nbc13wthr.us" tvg-name="NBC 13 WTHR INDIANAPOLIS 4K" tvg-logo="" group-title="ENGLISH USA LOCALS",NBC 13 WTHR INDIANAPOLIS 4K
-https://latest.rkdyiptv.workers.dev/live/3469.m3u8?token=rkdyiptv&exp=1783535400&origin=https%3A%2F%2Flatest.rkdyiptv.workers.dev&referer=https%3A%2F%2Flatest.rkdyiptv.workers.dev%2F&cookie=0b0b7ff57bd7f6f4e6367a7f22db66f1
+#EXTINF:-1 tvg-id="No details available" tvg-name="ABC WRTV INDIANAPOLIS 4K" tvg-logo="" group-title="ENGLISH USA LOCALS",ABC WRTV INDIANAPOLIS 4K
+https://latest.rkdyiptv.workers.dev/live/8836.m3u8?token=rkdyiptv&exp=1783535400&origin=https%3A%2F%2Flatest.rkdyiptv.workers.dev&referer=https%3A%2F%2Flatest.rkdyiptv.workers.dev%2F&cookie=0b0b7ff57bd7f6f4e6367a7f22db66f1
+#EXTINF:-1 tvg-id="No details available" tvg-name="CBS WTTV INDIANAPOLIS 4K" tvg-logo="" group-title="ENGLISH USA LOCALS",CBS WTTV INDIANAPOLIS 4K
+https://latest.rkdyiptv.workers.dev/live/8837.m3u8?token=rkdyiptv&exp=1783535400&origin=https%3A%2F%2Flatest.rkdyiptv.workers.dev&referer=https%3A%2F%2Flatest.rkdyiptv.workers.dev%2F&cookie=0b0b7ff57bd7f6f4e6367a7f22db66f1
+#EXTINF:-1 tvg-id="No details available" tvg-name="NBC WTHR INDIANAPOLIS 4K" tvg-logo="" group-title="ENGLISH USA LOCALS",NBC WTHR INDIANAPOLIS 4K
+https://latest.rkdyiptv.workers.dev/live/8838.m3u8?token=rkdyiptv&exp=1783535400&origin=https%3A%2F%2Flatest.rkdyiptv.workers.dev&referer=https%3A%2F%2Flatest.rkdyiptv.workers.dev%2F&cookie=0b0b7ff57bd7f6f4e6367a7f22db66f1
+#EXTINF:-1 tvg-id="No details available" tvg-name="FOX WXIN INDIANAPOLIS 4K" tvg-logo="" group-title="ENGLISH USA LOCALS",FOX WXIN INDIANAPOLIS 4K
+https://latest.rkdyiptv.workers.dev/live/8839.m3u8?token=rkdyiptv&exp=1783535400&origin=https%3A%2F%2Flatest.rkdyiptv.workers.dev&referer=https%3A%2F%2Flatest.rkdyiptv.workers.dev%2F&cookie=0b0b7ff57bd7f6f4e6367a7f22db66f1
 #EXTINF:-1 tvg-id="No details available" tvg-name="HBOMAX-SPORTS MOVIES HD" tvg-logo="" group-title="ENGLISH MOVIES 24x7",HBOMAX-SPORTS MOVIES HD
 https://latest.rkdyiptv.workers.dev/live/3950.m3u8?token=rkdyiptv&exp=1783535400&origin=https%3A%2F%2Flatest.rkdyiptv.workers.dev&referer=https%3A%2F%2Flatest.rkdyiptv.workers.dev%2F&cookie=0b0b7ff57bd7f6f4e6367a7f22db66f1
 #EXTINF:-1 tvg-id="No details available" tvg-name="ENGLISH-INDIANA JONES MOVIES HD" tvg-logo="" group-title="ENGLISH MOVIES 24x7",ENGLISH-INDIANA JONES MOVIES HD
