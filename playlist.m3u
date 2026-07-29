@@ -636,6 +636,8 @@ https://latest.rkdyiptv.workers.dev/live/6437.m3u8?token=rkdyiptv&exp=1785349800
 https://latest.rkdyiptv.workers.dev/live/6446.m3u8?token=rkdyiptv&exp=1785349800&origin=https%3A%2F%2Flatest.rkdyiptv.workers.dev&referer=https%3A%2F%2Flatest.rkdyiptv.workers.dev%2F&cookie=0edbe9a40054284f5e4a96df4e7e1c18
 #EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="SONY PIX HD TAM" tvg-logo="" group-title="TAMIL",SONY PIX HD TAM
 https://latest.rkdyiptv.workers.dev/live/6442.m3u8?token=rkdyiptv&exp=1785349800&origin=https%3A%2F%2Flatest.rkdyiptv.workers.dev&referer=https%3A%2F%2Flatest.rkdyiptv.workers.dev%2F&cookie=0edbe9a40054284f5e4a96df4e7e1c18
+#EXTINF:-1 tvg-id="sunnews.in" tvg-name="SUN NEWS" tvg-logo="" group-title="TAMIL",SUN NEWS
+https://latest.rkdyiptv.workers.dev/live/8996.m3u8?token=rkdyiptv&exp=1785349800&origin=https%3A%2F%2Flatest.rkdyiptv.workers.dev&referer=https%3A%2F%2Flatest.rkdyiptv.workers.dev%2F&cookie=0edbe9a40054284f5e4a96df4e7e1c18
 #EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="STAR MOVIES HD TAM" tvg-logo="" group-title="TAMIL",STAR MOVIES HD TAM
 https://latest.rkdyiptv.workers.dev/live/6445.m3u8?token=rkdyiptv&exp=1785349800&origin=https%3A%2F%2Flatest.rkdyiptv.workers.dev&referer=https%3A%2F%2Flatest.rkdyiptv.workers.dev%2F&cookie=0edbe9a40054284f5e4a96df4e7e1c18
 #EXTINF:-1 tvg-id="vijaysuper.in" tvg-name="STAR VIJAY SUPER INDIA" tvg-logo="" group-title="TAMIL",STAR VIJAY SUPER INDIA
