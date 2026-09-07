@@ -14,7 +14,7 @@ jobs:
 
       - name: Fetch M3U
         run: |
-          curl -L "https://m3u.cloudplay.qzz.io/jiotvplus.m3u" -o playlist.m3u
+          curl -L "https://jjtvxweb.pages.dev/jstr4web.json" -o playlist.m3u
 
       # 🇮🇳 INDIA FILTER
       - name: Filter India Channels
